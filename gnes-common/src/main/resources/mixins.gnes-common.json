@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.7.10",
+  "package": "me.morpheus.gnes.common.mixin",
+  "refmap": "mixins.gnes-common.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinBan"
+  ]
+}
+

@@ -1,0 +1,3 @@
+rootProject.name = 'gnes'
+
+include 'gnes-common', 'gnes-sponge', 'gnes-forge'

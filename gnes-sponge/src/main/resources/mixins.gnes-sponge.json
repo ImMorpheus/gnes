@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7.10",
+  "package": "me.morpheus.gnes.mixin",
+  "refmap": "mixins.gnes-sponge.refmap.json",
+  "plugin": "me.morpheus.gnes.mixin.plugin.MixinPlugin",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinC"
+  ]
+}
+
